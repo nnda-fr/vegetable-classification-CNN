@@ -38,7 +38,7 @@ Model dibangun menggunakan API `tf.keras.Sequential` dengan komponen:
 
 1. **Clone Repository:**
 ```bash
-git clone [https://github.com/username-kamu/vegetable-classification.git](https://github.com/username-kamu/vegetable-classification.git)
+git clone [https://github.com/username-kamu/vegetable-classification.git](https://github.com/nnda-fr/vegetable-classification.git)
 
 ```
 
